@@ -63,6 +63,7 @@ AvailabilityDate,NormalizedBuild,OSBuild,ReleaseType,Channel,OSPlatform,KB
 2026-04-14,26100.8246,26100,Baseline,LTSC • General Availability Channel,Windows11,KB5083769
 2026-04-14,26200.8246,26200,Baseline,General Availability Channel,Windows11,KB5083769
 2026-04-14,28000.1836,28000,Baseline,General Availability Channel,Windows11,KB5083768
+2026-05-12,14393.9140,14393,Baseline,General Availability Channel,Windows10,KB5087537
 2026-05-12,19045.7291,19045,Baseline,Windows 10 22H2,Windows10,KB5087544
 2026-05-12,22631.7079,22631,Baseline,General Availability Channel,Windows11,KB5087420
 2026-05-12,26100.8457,26100,Baseline,LTSC • General Availability Channel,Windows11,KB5089549
@@ -76,6 +77,9 @@ AvailabilityDate,NormalizedBuild,OSBuild,ReleaseType,Channel,OSPlatform,KB
 2026-06-09,28000.2269,28000,Baseline,General Availability Channel,Windows11,KB5095051
 2026-06-09,26100.8655,26100,Baseline,General Availability Channel,Windows11,KB5094126
 2026-06-09,22631.7219,22631,Baseline,General Availability Channel,Windows11,KB5093998
+2026-06-09,19044.7417,19044,Baseline,General Availability Channel,Windows10,KB5094127
+2026-06-09,17763.8880,17763,Baseline,General Availability Channel,Windows10,KB5094123
+2026-06-09,14393.9234,14393,Baseline,General Availability Channel,Windows10,KB5094122
 
 
 
