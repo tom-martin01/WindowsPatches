@@ -3,5 +3,3 @@ SupportFrom,SupportTo,OSBuild,OSPlatform,InSecuritySupport,Lifecycle
 2024-09-16,2027-09-16,15,MacOS,True,MacOS Sequoia
 2025-09-15,2028-09-15,26,MacOS,True,MacOS Tahoe
 2026-09-15,2029-09-15,27,MacOS,True,MacOS Golden Gate
-
-
