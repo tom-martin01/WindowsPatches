@@ -1,5 +1,7 @@
 AvailabilityDate,NormalizedBuild,OSBuild,ReleaseType,Channel,OSPlatform,KB
-2025-01-14,22621.4751,22621,Baseline,General Availability Channel,Windows11,KB5050021
-
-
-
+2026-06-09,26100.32995,26100,Baseline,Long Term Servicing Channel,WindowsServer2025,KB5094125
+2026-06-09,20348.5256,20348,Baseline,Long Term Servicing Channel,WindowsServer2022,KB5094128
+2026-06-09,17763.8880,17763,Baseline,Long Term Servicing Channel,WindowsServer2019,KB5094123
+2026-06-09,14393.9234,14393,Baseline,Long Term Servicing Channel,WindowsServer2016,KB5094122
+2026-06-09,14393.9600,22569,Baseline,Extended Security Support Channel,WindowsServer2012R2,KB5094041
+2026-01-13,7601,27889,Baseline,Extended Security Support Channel,WindowsServer2008R2,KB5073695
