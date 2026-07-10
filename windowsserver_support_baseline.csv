@@ -1,2 +1,7 @@
 SupportFrom,SupportTo,OSBuild,OSPlatform,InSecuritySupport,Lifecycle
-2023-10-31,2026-11-10,22631,Windows11,True,Windows 11 23H2 Enterprise/Education
+2024-11-01,2034-10-10,26100,WindowsServer2025,True,Windows Server 2025 LTSC
+2021-08-18,2031-10-14,20348,WindowsServer2022,True,Windows Server 2022 LTSC
+2018-11-13,2029-01-09,17763,WindowsServer2019,True,Windows Server 2019 LTSC
+2016-10-15,2030-01-12,14393,WindowsServer2016,True,Windows Server 2016 LTSC
+2013-11-25,2026-10-13,9600,WindowsServer2012R2,True,Windows Server 2012 R2 LTSC
+2011-02-22,2023-01-10,7601,WindowsServer2008R2,False,Windows Server 2008 R2 LTSC
